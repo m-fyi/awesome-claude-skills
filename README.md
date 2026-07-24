@@ -15,7 +15,6 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   <a href="https://github.com/m-fyi/awesome-claude-skills/stargazers"><img src="https://img.shields.io/github/stars/m-fyi/awesome-claude-skills?style=flat&color=f5c518" alt="Stars" /></a>
   <img src="https://img.shields.io/github/last-commit/m-fyi/awesome-claude-skills?label=updated&color=44cc11" alt="Last updated" />
-  <img src="https://img.shields.io/badge/auto--updated-weekly-44cc11" alt="Auto-updated weekly" />
   <img src="https://img.shields.io/badge/listings-40%2C000%2B-2563eb" alt="40,000+ listings" />
   <img src="https://img.shields.io/badge/license-CC0-lightgrey" alt="License CC0" />
 </p>
@@ -30,7 +29,7 @@
   <a href="https://aaaa.fyi/glossary">Glossary</a>
 </p>
 
-> Every entry links to its live listing on **[aaaa.fyi](https://aaaa.fyi)** — a searchable directory of 40,000+ tools with live install stats from GitHub, npm and PyPI. This list is **auto-generated weekly** from real usage, so ordering reflects what people actually install, not editorial preference.
+> Every entry links to its live listing on **[aaaa.fyi](https://aaaa.fyi)** — a searchable directory of 40,000+ tools with live install stats from GitHub, npm and PyPI. This list is generated from real usage, so ordering reflects what people actually install, not editorial preference.
 
 ## What is what?
 
