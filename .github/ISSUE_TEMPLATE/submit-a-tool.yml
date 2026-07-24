@@ -1,0 +1,39 @@
+name: Submit a tool
+description: Suggest a skill, MCP server, plugin or subagent for the list & directory
+title: "[Submit] <tool name>"
+labels: ["submission"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository
+      placeholder: owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options: [Skill, MCP server, Plugin, Subagent, Workflow, Prompt]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What does it do?
+      placeholder: One or two sentences.
+    validations:
+      required: true
+  - type: input
+    id: install
+    attributes:
+      label: Install command (if any)
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: It's open-source and actively maintained
+          required: true
+        - label: I'm not just promoting my own low-effort project
+          required: true
